@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Ishaan
 # A fellow tech-enthusiast and student
 
-- 🔭 I’m currently learning we development
-- ⚡ Fun fact: I play guitar, watching anime and I love Hiphop 
+- 🔭 I’m currently learning Web development
+- ⚡ Fun fact: I play guitar, love watching anime and I love Hiphop. 
 
 <!--
 **Ishaaann/Ishaaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
