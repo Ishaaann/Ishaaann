@@ -1,8 +1,8 @@
 ## Hey there 👋 I am Ishaan
 # A fellow tech-enthusiast
 
-- 🔭 I’m currently learning Flutter and diving into AI
-- ⚡ Fun fact: I play guitar, love watching anime and I love Hiphop. I do boxing as well.
+- 🔭 I’m currently diving deep into the world of AI and Machine Learning and so far it has been fun.
+- ⚡ Fun fact: I play guitar and I love doing different things, I have a lot of hobbies. 
 
 <!--
 **Ishaaann/Ishaaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
